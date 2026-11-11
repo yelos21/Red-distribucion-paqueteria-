@@ -1,0 +1,15 @@
+# Archivos compilados
+build/
+*.o
+*.obj
+
+# Ejecutables
+grafo
+grafo.exe
+*.exe
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
